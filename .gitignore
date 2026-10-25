@@ -46,6 +46,4 @@ data/processed_gis/*.geojson
 *.tif
 *.ovr
 *.geojson
-*.webm
-demo/
 git-lfs-*/
