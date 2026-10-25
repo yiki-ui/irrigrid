@@ -1,0 +1,114 @@
+province,district,sector,cell,village,latitude,longitude,altitude,climate_zone
+Kigali City,Gasabo,Kimironko,Bibare,,-1.9441,30.0619,1500,highland
+Kigali City,Gasabo,Kimironko,Gatare,,-1.9380,30.0580,1510,highland
+Kigali City,Gasabo,Kimironko,Kanombe,,-1.9350,30.0550,1490,highland
+Kigali City,Gasabo,Kacyiru,Kanombe,,-1.9280,30.0750,1520,highland
+Kigali City,Gasabo,Kacyiru,Nyarugunga,,-1.9200,30.0800,1515,highland
+Kigali City,Gasabo,Gisozi,Gikomero,,-1.9100,30.0700,1530,highland
+Kigali City,Gasabo,Gisozi,Rutunga,,-1.9050,30.0650,1525,highland
+Kigali City,Gasabo,Jali,Remera,,-1.9400,30.1100,1500,highland
+Kigali City,Gasabo,Jali,Kagugu,,-1.9350,30.1150,1495,highland
+Kigali City,Gasabo,Bweramana,Kinunga,,-1.9600,30.0500,1540,highland
+Kigali City,Gasabo,Nyacyonga,Karukina,,-1.9700,30.0450,1550,highland
+Kigali City,Kicukiro,Nyarugunga,Kicukiro,,-1.9250,30.1350,1480,highland
+Kigali City,Kicukiro,Nyarugunga,Muko,,-1.9200,30.1300,1485,highland
+Kigali City,Kicukiro,Kagarama,Kagasa,,-1.9100,30.1250,1490,highland
+Kigali City,Kicukiro,Kagarama,Rugarama,,-1.9050,30.1200,1495,highland
+Kigali City,Kicukiro,Gahanga,Gikondo,,-1.9300,30.1400,1475,highland
+Kigali City,Kicukiro,Gahanga,Kanyosha,,-1.9350,30.1450,1470,highland
+Kigali City,Kicukiro,Masaka,Kagoma,,-1.9500,30.1500,1465,highland
+Kigali City,Kicukiro,Masaka,Ryanyonga,,-1.9450,30.1550,1460,highland
+Kigali City,Kicukiro,Nibakure,Rushashara,,-1.9600,30.1600,1455,highland
+Kigali City,Nyarugenge,Nyamirambo,Nyamirambo,,-1.9550,30.0450,1510,highland
+Kigali City,Nyarugenge,Nyamirambo,Rwezamenyo,,-1.9500,30.0400,1515,highland
+Kigali City,Nyarugenge,Rwimfunda,Cycl,,-1.9450,30.0350,1520,highland
+Kigali City,Nyarugenge,Rwimfunda,Munini,,-1.9400,30.0300,1525,highland
+Kigali City,Nyarugenge,Kigali,Giporoso,,-1.9350,30.0250,1530,highland
+Kigali City,Nyarugenge,Kigali,Ruhango,,-1.9300,30.0200,1535,highland
+Kigali City,Nyarugenge,Muhima,Kabeza,,-1.9250,30.0150,1540,highland
+Kigali City,Nyarugenge,Muhima,Gishushu,,-1.9200,30.0100,1545,highland
+Eastern,Bugesera,Nyamata,Kigarama,,-2.0500,30.0700,1350,midland
+Eastern,Bugesera,Nyamata,Ntarama,,-2.0550,30.0650,1345,midland
+Eastern,Bugesera,Nyamata,Rwankuba,,-2.0600,30.0600,1340,midland
+Eastern,Bugesera,Juru,Ramba,,-2.0800,30.0800,1330,midland
+Eastern,Bugesera,Juru,Kanyonga,,-2.0850,30.0750,1325,midland
+Eastern,Bugesera,Nyamata,Marembo,,-2.0650,30.0550,1335,midland
+Eastern,Gatsibo,Kageyo,Rugarama,,-1.7000,30.4300,1500,midland
+Eastern,Gatsibo,Kageyo,Murambi,,-1.6950,30.4250,1495,midland
+Eastern,Gatsibo,Rwimbogo,Kagaba,,-1.7200,30.4200,1510,midland
+Eastern,Gatsibo,Rwimbogo,Kagarama,,-1.7150,30.4150,1505,midland
+Eastern,Gatsibo,Murambi,Gatsibo,,-1.6800,30.4400,1485,midland
+Eastern,Kayonza,Rwinkwavu,Kayonza,,-1.8300,30.3100,1480,midland
+Eastern,Kayonza,Rwinkwavu,Kabare,,-1.8250,30.3050,1485,midland
+Eastern,Kayonza,Rwinkwavu,Rwinzovu,,-1.8200,30.3000,1490,midland
+Eastern,Kayonza,Murama,Karenge,,-1.8500,30.3200,1475,midland
+Eastern,Kirehe,Mushikiri,Kirehe,,-2.1500,30.6500,1300,lowland
+Eastern,Kirehe,Mushikiri,Nyarubuye,,-2.1550,30.6450,1295,lowland
+Eastern,Kirehe,Nyamugari,Mugombwa,,-2.1800,30.6600,1285,lowland
+Eastern,Ngoma,Karemazi,Kibungo,,-2.1500,30.5500,1350,midland
+Eastern,Ngoma,Karemazi,Sake,,-2.1450,30.5450,1355,midland
+Eastern,Ngoma,Nyakanazi,Rurenge,,-2.1200,30.5300,1360,midland
+Eastern,Nyagatare,Mutako,Katabagemu,,-1.4000,30.3300,1350,midland
+Eastern,Nyagatare,Mutako,Rwimiyaga,,-1.3950,30.3250,1345,midland
+Eastern,Nyagatare,Muyumbu,Rukomo,,-1.4200,30.3500,1335,midland
+Eastern,Nyagatare,Muyumbu,Kabare,,-1.4150,30.3450,1340,midland
+Eastern,Rwamagana,F偷co,Rwamagana,,-1.9500,30.4300,1450,midland
+Eastern,Rwamagana,F偷co,Nyagasozi,,-1.9450,30.4250,1455,midland
+Eastern,Rwamagana,Kigabiro,Murambi,,-1.9600,30.4350,1445,midland
+Northern,Burera,Rugengabari,Rugengabari,,-1.5500,29.9000,1900,highland
+Northern,Burera,Rugengabari,Kagogo,,-1.5450,29.8950,1905,highland
+Northern,Burera,Rugarama,Burera,,-1.5800,29.8800,1850,highland
+Northern,Burera,Rugarama,Cyanika,,-1.5750,29.8750,1855,highland
+Northern,Gakenke,Nyange,Nyange,,-1.7000,29.8500,1800,highland
+Northern,Gakenke,Nyange,Kivuruga,,-1.6950,29.8450,1805,highland
+Northern,Gakenke,Mugunga,Rushashi,,-1.7200,29.8700,1750,highland
+Northern,Gicumbi,Byumba,Byumba,,-1.5800,30.0700,1850,highland
+Northern,Gicumbi,Byumba,Rushaki,,-1.5750,30.0650,1855,highland
+Northern,Gicumbi,Rwanda,Ruvune,,-1.6200,30.0500,1800,highland
+Northern,Musanze,Musanze,Musanze,,-1.5000,29.6300,1700,highland
+Northern,Musanze,Musanze,Kimonyo,,-1.4950,29.6250,1705,highland
+Northern,Musanze,Musanze,Rwebinza,,-1.4900,29.6200,1710,highland
+Northern,Musanze,Rwaza,Kisaro,,-1.5200,29.6400,1680,highland
+Northern,Musanze,Rwaza,Kagoma,,-1.5150,29.6350,1685,highland
+Northern,Musanze,Cyanika,Gasiza,,-1.5400,29.6500,1650,highland
+Northern,Rulindo,Rushaki,Rushaki,,-1.7800,29.9500,1850,highland
+Northern,Rulindo,Rushaki,Bases,,-1.7750,29.9450,1855,highland
+Northern,Rulindo,Kinihira,Masoro,,-1.8000,29.9600,1800,highland
+Southern,Gisagara,Muganza,Muganza,,-2.5500,29.7500,1700,highland
+Southern,Gisagara,Muganza,Ngoma,,-2.5450,29.7450,1705,highland
+Southern,Gisagara,Muganza,Nyarubaka,,-2.5400,29.7400,1710,highland
+Southern,Huye,Huye,Huye,,-2.6000,29.7000,1700,highland
+Southern,Huye,Huye,Mbazi,,-2.5950,29.6950,1705,highland
+Southern,Huye,Huye,Kinazi,,-2.5900,29.6900,1710,highland
+Southern,Huye,Tumba,Ruhashya,,-2.6200,29.7100,1650,highland
+Southern,Kamonyi,Rukamiro,Rukamiro,,-2.1000,29.7800,1650,highland
+Southern,Kamonyi,Rukamiro,Gacurabwenge,,-2.0950,29.7750,1655,highland
+Southern,Muhanga,Muhanga,Muhanga,,-2.0800,29.7500,1750,highland
+Southern,Muhanga,Muhanga,Kigoma,,-2.0750,29.7450,1755,highland
+Southern,Muhanga,Muhanga,Cyanika,,-2.0700,29.7400,1760,highland
+Southern,Nyamagabe,Gikongoro,Gikongoro,,-2.4500,29.5500,1800,highland
+Southern,Nyamagabe,Gikongoro,Rukondo,,-2.4450,29.5450,1805,highland
+Southern,Nyamagabe,Mbazi,Mbazi,,-2.4800,29.5600,1750,highland
+Southern,Nyanza,Nyanza,Nyanza,,-2.3500,29.7500,1600,midland
+Southern,Nyanza,Nyanza,Mugesera,,-2.3450,29.7450,1605,midland
+Southern,Nyanza,Nyanza,Kigoma,,-2.3400,29.7400,1610,midland
+Southern,Nyaruguru,Cyahinda,Cyahinda,,-2.6000,29.5500,1900,highland
+Southern,Nyaruguru,Cyahinda,Mata,,-2.5950,29.5450,1905,highland
+Southern,Ruhango,Ruhango,Ruhango,,-2.2800,29.7800,1600,midland
+Southern,Ruhango,Ruhango,Kinazi,,-2.2750,29.7750,1605,midland
+Western,Karongi,Karamera,Karamera,,-2.1500,29.4000,1700,highland
+Western,Karongi,Karamera,Ruganda,,-2.1450,29.3950,1705,highland
+Western,Karongi,Bwishya,Mubuga,,-2.1800,29.4200,1650,highland
+Western,Ngororero,Mpaka,Ngororero,,-2.3000,29.5000,1750,highland
+Western,Ngororero,Mpaka,Kavumu,,-2.2950,29.4950,1755,highland
+Western,Nyabihu,Muringa,Rubavu,,-2.4800,29.2300,1600,highland
+Western,Nyabihu,Muringa,Jenda,,-2.4750,29.2250,1605,highland
+Western,Nyamasheke,Kagano,Nyamasheke,,-2.4500,29.3500,1650,highland
+Western,Nyamasheke,Kagano,Kagano,,-2.4450,29.3450,1655,highland
+Western,Rubavu,Gisenyi,Rubavu,,-1.7000,29.2500,1550,midland
+Western,Rubavu,Gisenyi,Gisenyi,,-1.7050,29.2550,1545,midland
+Western,Rubavu,Gisenyi,Kanama,,-1.7100,29.2600,1540,midland
+Western,Rusizi,Nyamiyonga,Nyamiyongo,,-2.5500,29.0000,1450,midland
+Western,Rusizi,Nyamiyonga,Gihundwe,,-2.5450,29.0050,1455,midland
+Western,Rutsiro,Rutsiro,Rutsiro,,-2.3000,29.3200,1700,highland
+Western,Rutsiro,Rutsiro,Makokoro,,-2.2950,29.3150,1705,highland

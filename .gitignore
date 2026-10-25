@@ -1,0 +1,51 @@
+# Environment / secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*.json
+scan_results.json
+
+# Python (FastAPI backend)
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+*.egg-info/
+.pytest_cache/
+
+# Databases & caches
+backend/cache/*.db
+data/*.db
+*.db
+*.sqlite3
+
+# Node (Next.js frontend)
+node_modules/
+.next/
+out/
+.turbo/
+*.tsbuildinfo
+
+# OS / editor junk
+.DS_Store
+.vscode/
+*.log
+
+# Build artifacts
+dist/
+build/
+
+# Large data files
+data/SRTM/*.tif
+data/SRTM/*.ovr
+data/srtm_cache/*.tif
+data/processed_gis/*.geojson
+*.tif
+*.ovr
+*.geojson
+*.webm
+demo/
+git-lfs-*/

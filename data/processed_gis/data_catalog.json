@@ -1,0 +1,148 @@
+{
+  "title": "Rwanda GIS Data Catalog",
+  "description": "Processed GIS data for irrigation DSS",
+  "crs": "EPSG:4326 (WGS84)",
+  "datasets": [
+    {
+      "name": "catchments_level1",
+      "file": "catchments_level1.geojson",
+      "feature_count": 10,
+      "geometry_type": [
+        "Polygon",
+        "MultiPolygon"
+      ],
+      "bounds": [
+        28.86113814260038,
+        -2.840181807772669,
+        30.89962089377882,
+        -1.047296581609268
+      ],
+      "size_mb": 0.2836494445800781
+    },
+    {
+      "name": "catchments_level2",
+      "file": "catchments_level2.geojson",
+      "feature_count": 23,
+      "geometry_type": [
+        "MultiPolygon",
+        "Polygon"
+      ],
+      "bounds": [
+        28.86119330847188,
+        -2.840181807772686,
+        30.89962089377882,
+        -1.047296581609251
+      ],
+      "size_mb": 0.5041570663452148
+    },
+    {
+      "name": "erosion_control",
+      "file": "erosion_control.geojson",
+      "feature_count": 143781,
+      "geometry_type": [
+        "Polygon",
+        "MultiPolygon"
+      ],
+      "bounds": [
+        28.862186409742243,
+        -2.827033280744416,
+        30.883089746779522,
+        -1.050578690417505
+      ],
+      "size_mb": 114.81699275970459
+    },
+    {
+      "name": "rainfall_stations",
+      "file": "rainfall_stations.geojson",
+      "feature_count": 183,
+      "geometry_type": [
+        "Point"
+      ],
+      "bounds": [
+        28.867872173720254,
+        -2.755455066287162,
+        30.820911395240355,
+        -1.092390668623513
+      ],
+      "size_mb": 0.03939628601074219
+    },
+    {
+      "name": "rwanda_boundary",
+      "file": "rwanda_boundary.geojson",
+      "feature_count": 1,
+      "geometry_type": [
+        "Polygon"
+      ],
+      "bounds": [
+        28.86170768737793,
+        -2.839972734451237,
+        30.899072647094783,
+        -1.047450184821969
+      ],
+      "size_mb": 0.7897720336914062
+    },
+    {
+      "name": "rwanda_districts",
+      "file": "rwanda_districts.geojson",
+      "feature_count": 30,
+      "geometry_type": [
+        "Polygon",
+        "MultiPolygon"
+      ],
+      "bounds": [
+        28.86170768737793,
+        -2.839972734451237,
+        30.899072647094783,
+        -1.047450184822026
+      ],
+      "size_mb": 1.5242090225219727
+    },
+    {
+      "name": "rwanda_provinces",
+      "file": "rwanda_provinces.geojson",
+      "feature_count": 5,
+      "geometry_type": [
+        "Polygon"
+      ],
+      "bounds": [
+        28.86170768737793,
+        -2.839972734451237,
+        30.899072647094783,
+        -1.047450184822026
+      ],
+      "size_mb": 0.6011686325073242
+    },
+    {
+      "name": "rwanda_rivers",
+      "file": "rwanda_rivers.geojson",
+      "feature_count": 6455,
+      "geometry_type": [
+        "LineString",
+        "MultiLineString"
+      ],
+      "bounds": [
+        28.86175413684517,
+        -2.839789113982215,
+        30.899081639730113,
+        -1.047429288798516
+      ],
+      "size_mb": 2.467245101928711
+    },
+    {
+      "name": "rwanda_sectors",
+      "file": "rwanda_sectors.geojson",
+      "feature_count": 422,
+      "geometry_type": [
+        "Polygon",
+        "MultiPolygon"
+      ],
+      "bounds": [
+        28.86170768737793,
+        -2.839972734451237,
+        30.899072647094783,
+        -1.047450184821969
+      ],
+      "size_mb": 6.302374839782715
+    }
+  ]
+}

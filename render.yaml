@@ -1,0 +1,23 @@
+services:
+  - type: web
+    name: irrigrid-api
+    env: python
+    plan: free
+    region: oregon
+    buildCommand: |
+      pip install -r backend/requirements.txt
+    startCommand: |
+      gunicorn -k uvicorn.workers.UvicornWorker -w 1 -b 0.0.0.0:$PORT backend.main:app
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.0
+      - key: PYTHONPATH
+        value: .
+      - key: GROQ_API_KEY
+        sync: false
+      - key: SECRET_KEY
+        generateValue: true
+      - key: CORS_ORIGINS
+        value: "https://irrigrid.pages.dev,http://localhost:3000"
+    healthCheckPath: /health
+    autoDeploy: true

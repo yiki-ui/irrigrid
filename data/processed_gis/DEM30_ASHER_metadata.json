@@ -1,0 +1,35 @@
+{
+  "width": 7356,
+  "height": 6435,
+  "bands": 1,
+  "crs": "PROJCS[\"TM_Rwanda\",GEOGCS[\"ITRF2005\",DATUM[\"International_Terrestrial_Reference_Frame_2005\",SPHEROID[\"GRS 1980\",6378137,298.257222101,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6896\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",30],PARAMETER[\"scale_factor\",0.9999],PARAMETER[\"false_easting\",500000],PARAMETER[\"false_northing\",5000000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+  "bounds": {
+    "left": 373369.77929999924,
+    "bottom": 4685847.521199999,
+    "right": 600099.1809650434,
+    "top": 4884189.514092136
+  },
+  "transform": [
+    30.82237651781459,
+    0.0,
+    373369.77929999924,
+    0.0,
+    -30.822376517814575,
+    4884189.514092136,
+    0.0,
+    0.0,
+    1.0
+  ],
+  "resolution": [
+    30.82237651781459,
+    30.822376517814575
+  ],
+  "nodata": 32767.0,
+  "dtype": "int16",
+  "elevation": {
+    "min": 915.0,
+    "max": 4480.0,
+    "mean": 1688.471538112194,
+    "std": 347.29616405941977
+  }
+}

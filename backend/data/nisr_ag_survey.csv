@@ -1,0 +1,30 @@
+district,province,avg_farm_size_ha,main_crops,irrigation_adoption_pct,typical_soil,baseline_yield_kg_ha,irrigated_yield_kg_ha,annual_rainfall_mm
+Musanze,Northern,0.28,"Irish Potato, Maize, Tomato, Cabbage",6.5,Volcanic Loam,14500,28000,1250
+Nyabihu,Northern,0.25,"Irish Potato, Tea, Maize, Vegetables",4.2,Volcanic Loam,13800,26500,1320
+Gicumbi,Northern,0.32,"Tea, Wheat, Beans, Irish Potato",3.8,Clay Loam,9200,18500,1180
+Rulindo,Northern,0.30,"Vegetables, Maize, Beans, Banana",5.1,Sandy Clay Loam,10500,21000,1150
+Burera,Northern,0.26,"Irish Potato, Maize, Beans, Vegetables",4.9,Volcanic Loam,13200,25000,1220
+Gasabo,Kigali City,0.35,"Tomato, Eggplant, Vegetables, Maize",8.5,Sandy Loam,11000,23500,1020
+Kicukiro,Kigali City,0.30,"Vegetables, Sweet Potato, Cassava",7.2,Sandy Loam,10200,22000,990
+Nyarugenge,Kigali City,0.24,"Vegetables, Maize, Fruit",6.8,Sandy Loam,9800,21000,1010
+Bugesera,Eastern,0.65,"Cassava, Maize, Beans, Rice, Tomato",9.2,Sandy Clay Loam,8500,22000,850
+Kayonza,Eastern,0.70,"Maize, Beans, Banana, Vegetables",7.8,Sandy Loam,8200,20500,900
+Gatsibo,Eastern,0.62,"Maize, Beans, Rice, Soya",6.4,Clay Loam,9000,21500,950
+Nyagatare,Eastern,0.85,"Maize, Rice, Beans, Dairy Forage",11.5,Sandy Loam,9500,24000,820
+Rwamagana,Eastern,0.55,"Banana, Rice, Tomato, Vegetables",8.9,Sandy Clay Loam,10500,23000,980
+Kirehe,Eastern,0.72,"Banana, Maize, Beans, Vegetables",6.0,Sandy Loam,8800,21000,880
+Ngoma,Eastern,0.58,"Banana, Maize, Beans, Pineapple",5.4,Sandy Clay Loam,9200,21500,920
+Huye,Southern,0.34,"Coffee, Rice, Sweet Potato, Vegetables",5.8,Clay Loam,9400,20000,1160
+Nyamagabe,Southern,0.31,"Tea, Wheat, Irish Potato, Beans",3.5,Clay Loam,8900,18000,1280
+Nyanza,Southern,0.40,"Cassava, Maize, Beans, Vegetables",4.6,Sandy Clay Loam,9100,19500,1100
+Gisagara,Southern,0.38,"Rice, Cassava, Beans, Sweet Potato",5.2,Clay Loam,8800,19000,1120
+Muhanga,Southern,0.33,"Maize, Beans, Coffee, Vegetables",4.8,Clay Loam,9300,20200,1150
+Kamonyi,Southern,0.36,"Vegetables, Coffee, Cassava, Maize",6.1,Sandy Loam,9600,21000,1110
+Ruhango,Southern,0.37,"Cassava, Maize, Beans, Coffee",4.5,Sandy Clay Loam,9000,19800,1090
+Nyungwe,Southern,0.28,"Tea, Irish Potato, Vegetables",3.0,Clay Loam,8500,17500,1350
+Rubavu,Western,0.22,"Vegetables, Irish Potato, Tomato, Onion",8.0,Volcanic Loam,15000,29000,1200
+Rutsiro,Western,0.27,"Coffee, Beans, Maize, Irish Potato",3.9,Clay Loam,9100,19200,1250
+Karongi,Western,0.30,"Tea, Coffee, Maize, Beans",4.4,Clay Loam,9300,19600,1220
+Ngororero,Western,0.29,"Tea, Maize, Beans, Irish Potato",3.7,Clay Loam,9000,18800,1270
+Nyamasheke,Western,0.32,"Tea, Coffee, Cassava, Banana",4.1,Clay Loam,9200,19400,1300
+Rusizi,Western,0.35,"Rice, Cassava, Coffee, Vegetables",5.5,Clay Loam,9800,21000,1280

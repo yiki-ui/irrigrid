@@ -1,0 +1,6 @@
+name = "irrigrid-frontend"
+compatibility_date = "2024-01-01"
+pages_build_output_dir = "frontend/out"
+
+[vars]
+NEXT_PUBLIC_API_URL = "https://irrigrid-api.onrender.com"
